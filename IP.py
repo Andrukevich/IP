@@ -3,6 +3,9 @@ class IP:
     def __init__(self, IP):
         self.IP = str(IP)
 
+
+
+
     def get_ip(self):
         """Allocates IP"""
         only_IP = ''
